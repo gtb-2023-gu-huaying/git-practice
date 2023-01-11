@@ -12,7 +12,7 @@ Hi, this is me, Khora.
 - 花粥/福禄寿/MAMAMOO/小女友(没错kpop人)/听到reggae节奏就想摇起来
 - KTV经典曲目《套马杆》
 
-My current life (before joining Thoughtworks):
+## My current life (before joining Thoughtworks):
 
 我在昆明近郊的一个小山村以低价租了一栋彝族老宅并进行改造。
 
