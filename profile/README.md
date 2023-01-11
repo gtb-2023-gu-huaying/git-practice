@@ -2,7 +2,7 @@
 
 Hi, this is me, Khora.
 
-![my_headshot](assets/my_headshot.jpg)
+<img src="assets/my_headshot.jpg" alt="my_headshot" width="30%" />
 
 ## 个人简介：
 - 地域感很弱！在大连、上海、昆明、温哥华都有家，在北京、广东、英国居住过1年以上，但是非要自己一个人来西安（嘻嘻
