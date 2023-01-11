@@ -7,5 +7,6 @@ Git Remote is amazing.
 
 also insert between
 insert between
+insert a third line
 
 add another line
